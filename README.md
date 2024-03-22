@@ -3,6 +3,6 @@
 
 
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=mettydiacc&show_icons=true&locale=en" alt="mettydiacc" /></p>
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mettydiacc&" alt="mettydiacc" /></p>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mettydiacc&show_icons=true&locale=en&layout=compact" alt="mettydiacc" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mettydiacc&show_icons=true&locale=en" alt="mettydiacc" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mettydiacc&" alt="mettydiacc" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mettydiacc&show_icons=true&locale=en&layout=compact" alt="mettydiacc" /></p>
